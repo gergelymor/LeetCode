@@ -1,4 +1,5 @@
 #7. Reverse Integer
+# Python 3
 
 class Solution:
     def reverse(self, x: int) -> int:
