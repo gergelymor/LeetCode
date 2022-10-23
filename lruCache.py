@@ -1,6 +1,6 @@
-import time
-
 #146. LRU Cache
+
+import time
 
 class LRUCache:
     def __init__(self, capacity: int):
