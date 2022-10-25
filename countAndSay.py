@@ -15,7 +15,7 @@ class Solution:
                 if b < len(num) and num[a] == num[b]:
                     b = b + 1
                 else:
-                    said = said + str(b-a)+num[a]
+                    said = said + str(b-a) + num[a]
                     a = b
                     b = b + 1
             return said
